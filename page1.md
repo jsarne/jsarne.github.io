@@ -14,10 +14,10 @@ Test Chat - blue button
       isExpired: false,
       token: {
         access_token: "xxx",
-        token_type:  bearer,
+        token_type:  "bearer",
         refresh_token: "yyy",
         expires_in: 3599,
-        scope:  all,
+        scope:  "all",
         expires_in_timestamp: 1775154185000,
         userId: 3714255
       },
