@@ -1,7 +1,8 @@
 # Page 1
 
-Test Chat - blue button
+Test Chat for Bethany / Advisory Services
 
+<!--
 <script>
     // 1. Define your JSON object
     const dummyAuthObject = {
@@ -38,5 +39,6 @@ Test Chat - blue button
     
     console.log("dummy auth object saved to and retrieved from localstorage:", parsedData);
 </script>
-    
+-->
+
 <script type="module" src="https://us01ccistatic.zoom.us/us01cci/web-sdk/zcc-sdk.js" data-apikey="BwxQFdNDRBy1twW2iKcINg" data-env="us01"></script>
